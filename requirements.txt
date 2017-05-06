@@ -1,0 +1,14 @@
+argparse==1.2.1
+beautifulsoup4==4.5.3
+bs4==0.0.1
+future==0.16.0
+lxml==3.7.3
+oauthlib==2.0.2
+py==1.4.33
+pytest==3.0.7
+python-twitter==3.2.1
+requests==2.13.0
+requests-oauthlib==0.8.0
+six==1.10.0
+tweepy==3.5.0
+wsgiref==0.1.2
